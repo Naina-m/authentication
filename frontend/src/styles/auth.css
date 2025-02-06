@@ -1,0 +1,22 @@
+.logic{
+    background: linear-gradient(90deg, rgba(21,23,29,1) 0%, rgba(40,100,110,1) 100%);
+    height: 450px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+.project{
+    padding-top: 10vh;
+    border-right: 1px white solid;
+}
+.input{
+    background: transparent !important;
+    margin-top: 5px;
+    height: 3rem;
+    border-radius: 1.4rem !important;
+    color: white !important;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
